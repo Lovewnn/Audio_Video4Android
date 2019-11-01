@@ -1,0 +1,2 @@
+include ':lame_encode_mp3', ':app'
+rootProject.name='mp3encoder'
