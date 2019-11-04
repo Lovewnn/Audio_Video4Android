@@ -1,2 +1,2 @@
-include ':lame_encode_mp3', ':app'
-rootProject.name='mp3encoder'
+include ':lame_encode_mp3', ':app', ':common'
+rootProject.name='Audio_Video4Android'
